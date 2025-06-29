@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">Cloud Applications Specialist at Apper Cloud Labs</h3>
+<h3 align="center">Cloud Engineer - Technical Trainer at Apper Cloud Labs</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
